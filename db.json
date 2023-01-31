@@ -34,15 +34,22 @@
       "correctIndex": 0
     },
     {
-      "id": 4,
-      "prompt": "______ is a tool that transpiles JSX into valid JavaScript.",
-      "answers": [
-        "React",
-        "Babel",
-        "Webpack",
-        "ES6"
-      ],
-      "correctIndex": 1
+      "prompt": " bbnb",
+      "answer1": "jn mn ",
+      "answer2": " mnbkjn",
+      "answer3": "m ,m m",
+      "answer4": "kioji",
+      "correctIndex": 0,
+      "id": 4
+    },
+    {
+      "prompt": " bbnb",
+      "answer1": "jn mn ",
+      "answer2": " mnbkjn",
+      "answer3": "m ,m m",
+      "answer4": "kioji",
+      "correctIndex": "2",
+      "id": 5
     }
   ]
 }
